@@ -3,7 +3,7 @@
 
 > ⚠️ UPDATE:
 > 
-> This project has been moved to ➡️ [`lukso-network/tools-erc725-inspect`](https://github.com/lukso-network/tools-erc725-inspect/actions)
+> This project has been moved to ➡️ [`lukso-network/tools-erc725-inspect`](https://github.com/lukso-network/tools-erc725-inspect)
 
 Blockchain is transparent, but it is hard to read. This web app let's you inspect in a user friendly way the content of ERC725 smart contracts.
 
